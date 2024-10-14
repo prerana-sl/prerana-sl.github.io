@@ -6,7 +6,7 @@ subtitle: <a href="https://oprilab.bme.umich.edu/">Opri Lab</a> | University of 
 
 profile:
   align: right
-  image: prerana.jpg
+  image: prerana.jpeg
   image_circular: false
 
 news: true # includes a list of news items
