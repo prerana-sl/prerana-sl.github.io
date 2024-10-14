@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Opri Lab</https://oprilab.bme.umich.edu/>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
