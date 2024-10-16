@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First day of classes: First time being a GSI, excited! 
+First day of classes: First time being a GSI, excited! ✨
