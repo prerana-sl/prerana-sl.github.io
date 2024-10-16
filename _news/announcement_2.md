@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visited SFN! Our lab's PhD students presented their posters. Got to check out all the cool research :D
+Visited SFN! Our lab's PhD students presented their posters. Got to check out all the cool research in the field:D
