@@ -1,7 +1,7 @@
 ---
 layout: page
 title: miscellaneous
-permalink: /projects/
+permalink: /misc/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
