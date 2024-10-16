@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: She/Her
+subtitle: [Opri Lab](https://oprilab.bme.umich.edu/) | University of Michigan
 
 profile:
   align: right
