@@ -19,6 +19,8 @@ Hello! I am a second-year Biomedical Engineering Master's student at the Univers
 
 My fascination with neural circuits grew from my background in electrical engineering, where I found how many dynamics of electrical systems mirrored the brain's intricate networks. My background comes from an undergraduate degree in electronics and communication engineering. For my bachelor's thesis, I created a framework for movement analysis using wearable sensors, to help athletes with rehabilitation and performance enhancement. If interested in learning more about the projects I'm involved with, please click [here](prerana-sl.github.io/projects)! 
 
+In my free time, I watch movies and explore cafes (I'm from Chennai, South India, and I LOVE coffee). I also quite enjoy writing short stories (find some of them [here](prerana-sl.github.io/misc)!). I am also a trained classical dancer, in the Indian dance form Kathak. 
+
 
 
 
