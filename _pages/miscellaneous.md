@@ -2,6 +2,7 @@
 layout: page
 permalink: /miscellaneous/
 title: miscellaneous
-description: educating and exciting others about science and the brain
+description: 
 nav: true
+nav_order: 4
 ---
