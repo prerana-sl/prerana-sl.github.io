@@ -10,6 +10,6 @@ nav_order: 5
 ## Short Stories 
 I often enjoy writing and hope to do more in the future. Here are a few short stories I wrote as a part of the Kenyon-IITM Writing Workshop, in the fiction group. 
 
-1. [You Story]
+[You Story] (Prerana Lakshmanan - Assignment 3, You Story.pdf)
 
 
